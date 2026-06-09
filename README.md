@@ -19,23 +19,13 @@
 ###  Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/navid-asefi">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:navidasefi5@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/navid_asefi">LinkedIn</a> •
-  <a href="https://t.me/internalorgansofawhale">Telegram</a> •
-  <a href="mailto:navidasefi5@gmail.com">Email</a>
 </p>
 
 ### Employer?
