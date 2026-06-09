@@ -1,16 +1,15 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-<!--
-**Navid-Asefi/Navid-Asefi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Navid!)](https://git.io/typing-svg)
+</a>
 
-Here are some ideas to get you started:
+<div>
+    <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,django,git,postgres,mysql,cpp,notion,arch,bash,cmake,docker,go,latex,matlab,neovim,obsidian)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=cloudflare,kubernetes,rust)](https://skillicons.dev)
