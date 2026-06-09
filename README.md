@@ -11,3 +11,11 @@
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=cloudflare,kubernetes,rust)](https://skillicons.dev)
+
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1tchbJ_3RCE4wETe9gtuYltu4eERvR2Ht/view?usp=drive_link" download>Download my resume</a>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
